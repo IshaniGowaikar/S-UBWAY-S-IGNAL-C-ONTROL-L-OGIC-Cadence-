@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ishani
+HostName                       linuxa1.engr.colostate.edu
+ProcessIdentifier              50052
+ProcessCreationTime_UTC        1571101972
+ProcessCreationTime_Readable   Mon Oct 14 19:12:52 2019 MDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /net/nasstore/students/UNGRAD/UE/ishani/home/ECE451/LAB_3/subway_control_1/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Oct 14 19:14:52 2019 MDT
